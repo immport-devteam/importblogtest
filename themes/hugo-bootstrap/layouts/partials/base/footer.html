@@ -1,0 +1,50 @@
+<footer class="footer hidden-print">
+  <div class="container">
+    <div class="row vertical-align">
+      <div class="col-5">
+       <!-- <p class="text-xs-center m-a-0 p-a-0">
+          &copy; {{now.Format "2006"}} {{ with .Site.Copyright }}{{ . | markdownify}}{{ end }}
+        </p>-->
+        <p class="text-xs-center  m-a-0 p-a-0">
+			<span class="p-l-1 p-r-1">
+				&nbsp;&nbsp;Sponsored by: <ul>
+					<li>National Institute of Allergy and Infectious Diseases (NIAID)&nbsp;&nbsp;&nbsp;</li>
+					<li>National Institutes of Health (NIH)</li>
+					<li>Health and Human Services (HHS)</li>
+				</ul>
+			</span>
+		</p>
+	  </div>
+	  <div class="col-2">
+				<img src="{{ .Site.BaseURL }}/img/UCSF-logo-background.png" height="100%" width="100%">
+	  </div>
+	  <div class="col-2">
+				<img src="{{ .Site.BaseURL }}/img/mod-logo-background.png" height="100%" width="100%">
+	  </div>
+	    
+	  <div class="col-2">
+		<p class="text-xs-center  m-a-0 p-a-0">
+			<span class="p-l-1 p-r-1">
+				Connect with us
+				<ul>
+				<li><span style="vertical-align: bottom; width: 68px; height: 20px;"><iframe name="f37199a98cfb56e" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" style="border: medium none; visibility: visible; width: 68px; height: 20px;" src="https://www.facebook.com/plugins/like.php?app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df1087552c988754%26domain%3Dimmportdb.github.io%26origin%3Dhttps%253A%252F%252Fimmportdb.github.io%252Ff1b65b25da093f%26relation%3Dparent.parent&amp;container_width=184&amp;font=lucida%20grande&amp;href=https%3A%2F%2Fwww.facebook.com%2FImmPort&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=650" class="" width="650px" height="1000px" frameborder="0"></iframe></span>
+				</li>
+				<li><img src="{{ .Site.BaseURL }}/img/twitter-icon.png">Twitter</li>
+				<li><img src="{{ .Site.BaseURL }}/img/rss-icon.png">RSS Feed</li>
+				<li><img src="{{ .Site.BaseURL }}/img/groups-16.png">Google Group</li>
+				</ul>
+			</span>
+		</p>
+	  </div>
+			
+<!--          {{ $footerMenuLen := len .Site.Menus.footer}} {{ if gt $footerMenuLen 0 }} {{ range $k, $v := .Site.Menus.footer }}
+          <span class="p-l-1 p-r-1">
+                <a href="{{.URL}}">{{ .Name }}</a>
+              </span>
+              {{ if lt $k (sub $footerMenuLen 1) }}&middot;{{ end }} {{ end }} {{ end }} -->
+        
+
+      
+    </div>
+  </div>
+</footer>

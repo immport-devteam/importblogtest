@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-md navbar-light blog-header">
+	<div class="container-fluid" style="background-color:#101010; height:32px">
+		
+		<a class="navbar-brand" style="color:white; font-size:14px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}/img/immport-logo-black-background.png" height="24" width="24"> {{ .Site.Title }}</a>
+		<ul class="nav navbar-nav navbar-right" >
+			<li class="nav-item"><a class="nav-link menu-item" href="">Documentation</a></li>
+			<li class="nav-item"><a class="nav-link menu-item" href="">Publications</a></li>
+			<li class="nav-item"><a class="nav-link menu-item" href="">About</a></li>
+			<li class="nav-item"><a class="nav-link menu-item" href="">Register</a></li>
+		</ul>
+		  
+	</div>
+</nav>
+<nav class="navbar navbar-expand-md navbar-light blog-header">
+	<div class="container-fluid" style="background:linear-gradient(to bottom, #b793e1 0%, #510d9e 100%); height:32px">
+		<a class="navbar-brand" style="color:white;  font-size:14px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;" href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}/img/immport-blog.png" height="24" width="24"> {{ .Site.Title }} Resources</a>
+		<ul class="nav navbar-nav navbar-right" >
+			<li class="nav-item"><a class="nav-link menu-item" href="">Blog</a></li>
+			<li class="nav-item"><a class="nav-link menu-item" href="">Tutorials</a></li>
+		</ul>
+	</div>
+</nav>
+<!--<nav class="navbar navbar-expand-md navbar-light blog-header">
+  <div class="container">
+    <button class="navbar-toggler" type="button" data-toggle="collapse"
+        data-target="#exCollapsingNavbar2"
+        aria-controls="exCollapsingNavbar2" aria-expanded="false" aria-label="Toggle navigation">
+      &#9776;
+    </button>
+    <div class="collapse navbar-collapse" id="exCollapsingNavbar2">
+		
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      <ul class="nav navbar-nav navbar-right">
+        {{ $currentNode := . }}
+        {{ range .Site.Menus.main }}
+          <li class="nav-item">
+          <a class="nav-link menu-item" href="{{.URL}}">
+              {{ .Pre }}
+              <span>{{ .Name }}</span>
+          </a>
+        </li>
+        {{end}}
+      </ul>
+    </div>
+  </div>
+</nav>-->
