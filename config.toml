@@ -11,6 +11,16 @@ theme = "hugo-bootstrap"
   email = "maya.zuhl@esacinc.com" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
   
+  # Body background color
+  bodybgcolor = "#f9f9f9"
+
+[params.widgets]
+  recent_articles = true
+  categories = true
+  tags = true
+  tag_cloud = true  
+
+ 
 #[[params.social]]
 #  title = "twitter"
 #  url = "https://twitter.com/#!/ImmPortDB"
@@ -54,4 +64,4 @@ theme = "hugo-bootstrap"
     weight = -120
     identifier = "license"
     url = "/page/license/"
-  
+ 

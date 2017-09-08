@@ -1,7 +1,5 @@
 +++
 title = "Resources"
 date = "2017-08-15"
-layout = "resources"
+layout = "mod-resources"
 +++
-
-Resources
