@@ -2,22 +2,18 @@ backend:
     name: github
     repo: mzuhl/importblogtest # Path to your Github repository
     branch: master # Branch to update
-
-
+    
 publish_mode: editorial_workflow
-
-media_folder: "static/img/uploads" # Media files will be stored in the repo under images/uploads
-public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
 collections:
-    -name: "posts"
-    label: "Blog"
-    folder: "posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    - name: "posts"
+      label: "Blog"
+      folder: "posts"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      fields: # The fields for each document, usually in front matter
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Featured Image", name: "thumbnail", widget: "image"}
+        - {label: "Body", name: "body", widget: "markdown"}
