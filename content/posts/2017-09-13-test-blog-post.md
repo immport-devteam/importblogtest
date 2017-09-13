@@ -2,7 +2,7 @@
 title: Test blog post
 type: post
 date: 2017-09-13T00:00:00.000Z
-banner: img/posts/Landyshi.jpg
+banner: /img/posts/DSC_0720.jpg
 tags:
   - tag1
   - tag2
@@ -13,5 +13,6 @@ categories:
 *This is a test post from Netlify CMS*
 
 ![flower](/img/posts/DSC_0071.jpg)
+
 
 
