@@ -2,7 +2,7 @@
 title: Test blog post
 type: post
 date: 2017-09-13T00:00:00.000Z
-banner: /static/img/posts/Landyshi.jpg
+banner: img/posts/Landyshi.jpg
 tags:
   - tag1
   - tag2
