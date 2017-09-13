@@ -12,3 +12,6 @@ categories:
 ---
 *This is a test post from Netlify CMS*
 
+![flower](/img/posts/DSC_0071.jpg)
+
+
