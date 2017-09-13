@@ -6,3 +6,4 @@ thumbnail: /static/img/Landyshi.jpg
 ## This is a test blog entry from Netlify CMS 
 
 Testing test test test test 
+
