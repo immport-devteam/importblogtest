@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: mzuhl/importblogtest # Path to your Github repository
+    repo: ImmPortDB/ImmPort-Blog # Path to your Github repository
     branch: master # Branch to update
     
 publish_mode: editorial_workflow
