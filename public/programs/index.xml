@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on ImmPort Blog</title>
+    <link>https://staging-immport-blog.netlify.com/programs/</link>
+    <description>Recent content in Programs on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://staging-immport-blog.netlify.com/programs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Programs</title>
+      <link>https://staging-immport-blog.netlify.com/programs/_index/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/programs/_index/</guid>
+      <description>&lt;p&gt;Programs&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://staging-immport-blog.netlify.com/programs/mod-resources/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/programs/mod-resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

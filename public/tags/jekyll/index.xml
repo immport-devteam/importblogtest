@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on ImmPort Blog</title>
+    <link>https://staging-immport-blog.netlify.com/tags/jekyll/</link>
+    <description>Recent content in Jekyll on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://staging-immport-blog.netlify.com/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Post 3</title>
+      <link>https://staging-immport-blog.netlify.com/posts/post_example3/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/posts/post_example3/</guid>
+      <description>
+
+&lt;h2 id=&#34;lorem-ipsum:6594edc06b0fc17f4292436458d406f0&#34;&gt;Lorem Ipsum&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mi lectus, posuere eget orci sit amet, venenatis tincidunt nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce nec magna ornare, commodo nunc nec, eleifend ante. Suspendisse sollicitudin nisl at lacus ullamcorper congue. Sed placerat ipsum vitae risus dictum condimentum. Nulla at metus nulla. Mauris mauris lacus, viverra vitae mi eget, eleifend faucibus lacus. Nam quis turpis convallis, bibendum lorem in, elementum neque. Aenean a felis viverra, porttitor lectus hendrerit, consequat arcu. Sed ac lorem dui. Cras at nulla quam. Mauris diam nibh, molestie ut mauris eget, tincidunt hendrerit eros. Nam vestibulum, ipsum et suscipit egestas, odio lacus porta quam, et hendrerit nibh urna quis justo.&lt;/p&gt;
+
+&lt;p&gt;Praesent accumsan mauris metus, rutrum semper quam blandit ac. Sed laoreet purus a congue lobortis. Nulla id magna sodales, aliquet leo quis, mattis tortor. Pellentesque rhoncus varius enim vitae ullamcorper. Ut aliquam non nibh sit amet tincidunt. Aenean tempus, turpis quis dictum rutrum, mauris quam porttitor mi, sed ultrices velit ex id leo. Proin rhoncus urna non blandit laoreet. Ut lacus massa, porta ac ullamcorper vel, venenatis eu nulla. Mauris eget consectetur erat, blandit sollicitudin sapien. Suspendisse at sollicitudin risus, eu vestibulum odio. Nulla at diam sit amet libero efficitur malesuada sit amet eu tortor.&lt;/p&gt;
+
+&lt;p&gt;Aenean nulla arcu, suscipit commodo elit eget, consequat sodales arcu. In fermentum libero in magna aliquet tincidunt. Quisque ultricies purus urna, et tincidunt velit suscipit a. In orci est, feugiat eu turpis eget, gravida sagittis urna. Fusce porta pulvinar bibendum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi laoreet lorem purus, in scelerisque mauris consequat sed. Mauris in rhoncus metus. Aenean enim dui, commodo non enim vel, lobortis volutpat lectus. Praesent efficitur, mi sit amet dignissim consequat, urna tortor dapibus turpis, eget aliquam tellus nibh nec felis. Donec dignissim ligula ante, vitae hendrerit velit suscipit ac.&lt;/p&gt;
+
+&lt;p&gt;In rutrum pulvinar urna, ut laoreet massa accumsan id. Nullam aliquet, arcu id dapibus tincidunt, elit mi commodo lectus, eu ultrices orci justo id ligula. Nam ultrices augue in nisl pharetra, vel pretium ipsum accumsan. Pellentesque pharetra ex quam. Proin condimentum sed lorem a auctor. Pellentesque eget aliquet urna. Vestibulum augue nisl, luctus sit amet est placerat, placerat feugiat erat. Cras lacinia tristique est, commodo ullamcorper purus varius eget. Aliquam erat volutpat. Vivamus semper, odio vitae tempus molestie, odio arcu fringilla leo, id faucibus augue tellus iaculis felis. Nulla id lorem sit amet ligula elementum viverra. Donec convallis at ligula non commodo. Vivamus sed condimentum elit, id sodales mi.&lt;/p&gt;
+
+&lt;p&gt;Fusce id risus sit amet orci feugiat malesuada in vel lectus. Quisque sit amet augue quis ligula tincidunt ornare at eget augue. Etiam at nibh tincidunt, vehicula sapien et, cursus dui. Aenean sit amet fermentum dui. Nulla tristique orci non mollis facilisis. Nullam eleifend, neque id feugiat vestibulum, enim diam ultricies velit, tempor luctus nulla massa ut ipsum. Proin libero quam, iaculis a est non, vulputate ultricies urna. Suspendisse ornare libero vel convallis finibus. Duis convallis augue sapien, eget vulputate tellus lobortis sed. Mauris quis laoreet lorem. Aliquam quis justo dignissim, tincidunt libero quis, scelerisque arcu. Aliquam quis sodales diam. Aenean ultrices sem nec nisi porta efficitur.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Post 2</title>
+      <link>https://staging-immport-blog.netlify.com/posts/post_example2/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/posts/post_example2/</guid>
+      <description>
+
+&lt;h2 id=&#34;migrate-to-hugo-from-jekyll:71ffb351d37182a70628456492347cac&#34;&gt;Migrate to Hugo from Jekyll&lt;/h2&gt;
+
+&lt;h2 id=&#34;move-static-content-to-static:71ffb351d37182a70628456492347cac&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
+With Jekyll, something that looked like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
+    ▾ images/
+        logo.png
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;should become&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
+    ▾ static/
+        ▾ images/
+            logo.png
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-your-hugo-configuration-file:71ffb351d37182a70628456492347cac&#34;&gt;Create your Hugo configuration file&lt;/h2&gt;
+
+&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;https://staging-immport-blog.netlify.com/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
+
+&lt;h2 id=&#34;set-your-configuration-publish-folder-to-site:71ffb351d37182a70628456492347cac&#34;&gt;Set your configuration publish folder to &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;The default is for Jekyll to publish to &lt;code&gt;_site&lt;/code&gt; and for Hugo to publish to &lt;code&gt;public&lt;/code&gt;. If, like me, you have &lt;a href=&#34;http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html&#34;&gt;&lt;code&gt;_site&lt;/code&gt; mapped to a git submodule on the &lt;code&gt;gh-pages&lt;/code&gt; branch&lt;/a&gt;, you&amp;rsquo;ll want to do one of two alternatives:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Change your submodule to point to map &lt;code&gt;gh-pages&lt;/code&gt; to public instead of &lt;code&gt;_site&lt;/code&gt; (recommended).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git submodule deinit _site
+git rm _site
+git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Or, change the Hugo configuration to use &lt;code&gt;_site&lt;/code&gt; instead of &lt;code&gt;public&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+    ..
+    &amp;quot;publishdir&amp;quot;: &amp;quot;_site&amp;quot;,
+    ..
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;convert-jekyll-templates-to-hugo-templates:71ffb351d37182a70628456492347cac&#34;&gt;Convert Jekyll templates to Hugo templates&lt;/h2&gt;
+
+&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;https://staging-immport-blog.netlify.com/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
+
+&lt;p&gt;As a single reference data point, converting my templates for &lt;a href=&#34;http://heyitsalex.net/&#34;&gt;heyitsalex.net&lt;/a&gt; took me no more than a few hours.&lt;/p&gt;
+
+&lt;h2 id=&#34;convert-jekyll-plugins-to-hugo-shortcodes:71ffb351d37182a70628456492347cac&#34;&gt;Convert Jekyll plugins to Hugo shortcodes&lt;/h2&gt;
+
+&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;https://staging-immport-blog.netlify.com/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
+
+&lt;h3 id=&#34;implementation:71ffb351d37182a70628456492347cac&#34;&gt;Implementation&lt;/h3&gt;
+
+&lt;p&gt;As an example, I was using a custom &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/blob/74bb12036a71334fdb7dba84e073382fc06908ec/_plugins/image_tag.rb&#34;&gt;&lt;code&gt;image_tag&lt;/code&gt;&lt;/a&gt; plugin to generate figures with caption when running Jekyll. As I read about shortcodes, I found Hugo had a nice built-in shortcode that does exactly the same thing.&lt;/p&gt;
+
+&lt;p&gt;Jekyll&amp;rsquo;s plugin:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;module Jekyll
+  class ImageTag &amp;lt; Liquid::Tag
+    @url = nil
+    @caption = nil
+    @class = nil
+    @link = nil
+    // Patterns
+    IMAGE_URL_WITH_CLASS_AND_CAPTION =
+    IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK = /(\w+)(\s+)((https?:\/\/|\/)(\S+))(\s+)&amp;quot;(.*?)&amp;quot;(\s+)-&amp;gt;((https?:\/\/|\/)(\S+))(\s*)/i
+    IMAGE_URL_WITH_CAPTION = /((https?:\/\/|\/)(\S+))(\s+)&amp;quot;(.*?)&amp;quot;/i
+    IMAGE_URL_WITH_CLASS = /(\w+)(\s+)((https?:\/\/|\/)(\S+))/i
+    IMAGE_URL = /((https?:\/\/|\/)(\S+))/i
+    def initialize(tag_name, markup, tokens)
+      super
+      if markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK
+        @class   = $1
+        @url     = $3
+        @caption = $7
+        @link = $9
+      elsif markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION
+        @class   = $1
+        @url     = $3
+        @caption = $7
+      elsif markup =~ IMAGE_URL_WITH_CAPTION
+        @url     = $1
+        @caption = $5
+      elsif markup =~ IMAGE_URL_WITH_CLASS
+        @class = $1
+        @url   = $3
+      elsif markup =~ IMAGE_URL
+        @url = $1
+      end
+    end
+    def render(context)
+      if @class
+        source = &amp;quot;&amp;lt;figure class=&#39;#{@class}&#39;&amp;gt;&amp;quot;
+      else
+        source = &amp;quot;&amp;lt;figure&amp;gt;&amp;quot;
+      end
+      if @link
+        source += &amp;quot;&amp;lt;a href=\&amp;quot;#{@link}\&amp;quot;&amp;gt;&amp;quot;
+      end
+      source += &amp;quot;&amp;lt;img src=\&amp;quot;#{@url}\&amp;quot;&amp;gt;&amp;quot;
+      if @link
+        source += &amp;quot;&amp;lt;/a&amp;gt;&amp;quot;
+      end
+      source += &amp;quot;&amp;lt;figcaption&amp;gt;#{@caption}&amp;lt;/figcaption&amp;gt;&amp;quot; if @caption
+      source += &amp;quot;&amp;lt;/figure&amp;gt;&amp;quot;
+      source
+    end
+  end
+end
+Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;is written as this Hugo shortcode:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;!-- image --&amp;gt;
+&amp;lt;figure {{ with .Get &amp;quot;class&amp;quot; }}class=&amp;quot;{{.}}&amp;quot;{{ end }}&amp;gt;
+    {{ with .Get &amp;quot;link&amp;quot;}}&amp;lt;a href=&amp;quot;{{.}}&amp;quot;&amp;gt;{{ end }}
+        &amp;lt;img src=&amp;quot;{{ .Get &amp;quot;src&amp;quot; }}&amp;quot; {{ if or (.Get &amp;quot;alt&amp;quot;) (.Get &amp;quot;caption&amp;quot;) }}alt=&amp;quot;{{ with .Get &amp;quot;alt&amp;quot;}}{{.}}{{else}}{{ .Get &amp;quot;caption&amp;quot; }}{{ end }}&amp;quot;{{ end }} /&amp;gt;
+    {{ if .Get &amp;quot;link&amp;quot;}}&amp;lt;/a&amp;gt;{{ end }}
+    {{ if or (or (.Get &amp;quot;title&amp;quot;) (.Get &amp;quot;caption&amp;quot;)) (.Get &amp;quot;attr&amp;quot;)}}
+    &amp;lt;figcaption&amp;gt;{{ if isset .Params &amp;quot;title&amp;quot; }}
+        {{ .Get &amp;quot;title&amp;quot; }}{{ end }}
+        {{ if or (.Get &amp;quot;caption&amp;quot;) (.Get &amp;quot;attr&amp;quot;)}}&amp;lt;p&amp;gt;
+        {{ .Get &amp;quot;caption&amp;quot; }}
+        {{ with .Get &amp;quot;attrlink&amp;quot;}}&amp;lt;a href=&amp;quot;{{.}}&amp;quot;&amp;gt; {{ end }}
+            {{ .Get &amp;quot;attr&amp;quot; }}
+        {{ if .Get &amp;quot;attrlink&amp;quot;}}&amp;lt;/a&amp;gt; {{ end }}
+        &amp;lt;/p&amp;gt; {{ end }}
+    &amp;lt;/figcaption&amp;gt;
+    {{ end }}
+&amp;lt;/figure&amp;gt;
+&amp;lt;!-- image --&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;usage:71ffb351d37182a70628456492347cac&#34;&gt;Usage&lt;/h3&gt;
+
+&lt;p&gt;I simply changed:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{% image full http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg &amp;quot;One of my favorite touristy-type photos. I secretly waited for the good light while we were &amp;quot;having fun&amp;quot; and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&amp;quot; -&amp;gt;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/ %}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;to this (this example uses a slightly extended version named &lt;code&gt;fig&lt;/code&gt;, different than the built-in &lt;code&gt;figure&lt;/code&gt;):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fig class=&amp;quot;full&amp;quot; src=&amp;quot;http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg&amp;quot; title=&amp;quot;One of my favorite touristy-type photos. I secretly waited for the good light while we were having fun and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&amp;quot; link=&amp;quot;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/&amp;quot; %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As a bonus, the shortcode named parameters are, arguably, more readable.&lt;/p&gt;
+
+&lt;h2 id=&#34;finishing-touches:71ffb351d37182a70628456492347cac&#34;&gt;Finishing touches&lt;/h2&gt;
+
+&lt;h3 id=&#34;fix-content:71ffb351d37182a70628456492347cac&#34;&gt;Fix content&lt;/h3&gt;
+
+&lt;p&gt;Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that &lt;code&gt;hugo server --watch&lt;/code&gt; is your friend. Test your changes and fix errors as needed.&lt;/p&gt;
+
+&lt;h3 id=&#34;clean-up:71ffb351d37182a70628456492347cac&#34;&gt;Clean up&lt;/h3&gt;
+
+&lt;p&gt;You&amp;rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&amp;rsquo;t used, delete it.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-practical-example-in-a-diff:71ffb351d37182a70628456492347cac&#34;&gt;A practical example in a diff&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://heyitsalex.net/&#34;&gt;Hey, it&amp;rsquo;s Alex&lt;/a&gt; was migrated in less than a &lt;em&gt;father-with-kids day&lt;/em&gt; from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34;&gt;diff&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

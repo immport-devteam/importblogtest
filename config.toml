@@ -1,59 +1,26 @@
 baseURL = "https://staging-immport-blog.netlify.com/"
 languageCode = "en-us"
-title = "ImmPort"
+title = "ImmPort Blog"
 theme = "hugo-bootstrap"
 
 
 [params]
-  DateForm = "Mon, Jan 2, 2006"
-  Description = "MOD Database for Preterm Birth Research"
-  Author = "Maya Zuhl"
-  email = "maya.zuhl@esacinc.com" #Remove this line if you would prefer not to use an email button in the footer.
+  DateForm = "Mon, Jan 1, 2018"
+  Description = "ImmPort Blog"
+  Author = "ImmPort Dev Team"
+  email = "BISC_Helpdesk@niaid.nih.gov" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
-  
-  # Body background color
-  bodybgcolor = "#f9f9f9"
 
 [params.widgets]
   recent_articles = true
   categories = true
   tags = true
-  tag_cloud = true  
-
- 
-#[[params.social]]
-#  title = "twitter"
-#  url = "https://twitter.com/#!/ImmPortDB"
-#[[params.social]]
-#  title = "facebook"
-#  url = "https://www.facebook.com/ImmPort"
-#[[params.social]]
-#  title = "rss-link"
-#  url = "https://immportdb.github.io/immport-open/resources/rss/newsfeed.xml"
-#[[params.social]]
-#  title = "google-link"
-#  url = "https://groups.google.com/d/forum/immport"
+  tag_cloud = true
 
 [[menu.main]]
   name = "Blog"
   url = "/"
   weight = -200
-[[menu.main]]
-  name = "Tutorial"
-  url = "/post/"
-  weight = -180
-[[menu.main]]
-    name = "ABOUT ME"
-    pre = "<i class='fa fa-info-circle'></i>"
-    weight = -90
-    identifier = "about-me"
-    url = "/page/about-me"
-[[menu.main]]
-    name = "Resources"
-    pre = "<i class='fa fa-info-circle'></i>"
-    weight = -100
-    identifier = "resources"
-    url = "/page/resources"
 [[menu.footer]]
     name = "DISCLAIMER"
     weight = -110
@@ -64,4 +31,3 @@ theme = "hugo-bootstrap"
     weight = -120
     identifier = "license"
     url = "/page/license/"
- 

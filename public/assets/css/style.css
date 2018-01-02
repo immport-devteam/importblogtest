@@ -1,12 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,100);
 
 body {
-  font-family: "Roboto", "Open Sans", "Sans Serif", "Georgia", "Times New Roman", Times, serif;
+  font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;
   /* Margin bottom by footer height */
   margin-bottom: 100px;
   line-height: 1.6;
   font-weight: 300;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800
+}
+
 html {
   position: relative;
   min-height: 100%;
@@ -16,29 +27,71 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 100px;
-  font-size: 0.8em;
-  padding-top: 2em;
+.bg-light {
+  background-color: #fff !important;
 }
 
-.blog-masthead {
-  margin-bottom: 3rem;
-  background-color: #428bca;
-  -webkit-box-shadow: inset 0 -.1rem .25rem rgba(0, 0, 0, .1);
-  box-shadow: inset 0 -.1rem .25rem rgba(0, 0, 0, .1);
+.applicationDiv {
+    margin-top: 15px;
 }
-.navbar-light .navbar-nav .nav-link {
-  padding: 0.5rem;
-  color: rgba(0, 0, 0, 0.9);
+
+.applicationDiv a {
+    text-decoration: none;
+    margin-top: 40px;
 }
+.home-heading {
+    padding: 6px 10px;
+    color: #510d9e;
+    font-size: 15px;
+    padding: 0px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.tools-heading {
+    padding: 6px 10px;
+    color: #888888;
+    font-size: 12px;
+    padding: 0px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.homeIcon {
+    color: #9342f0;
+    opacity: 0.8;
+    font-size:40px;
+}
+.logo-panel-heading {
+    background-color: #ffffff !important;
+    padding: 4px 10px;
+    border: 0px !important;
+}
+
+.page-title {
+	font-size: 45px;
+	color: #510d9e;
+	text-align: center;
+	background-color: #f5f5f5;
+	padding: 10px 10px 10px 10px;
+	margin: 40px 0px 20px 20px;
+}
+
+.title-div {
+	min-height: 150px;
+	display: block;
+	margin: auto;
+}
+
+
 .blog-header {
-  margin-bottom: 1rem;
+  /*margin-bottom: 1rem;*/
   background-color: #fff !important;
 }
 h1.post-title {
