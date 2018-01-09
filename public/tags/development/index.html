@@ -41,7 +41,7 @@
   <link rel="stylesheet" href="https://staging-immport-blog.netlify.com/assets/css/ecosystem.css">
   <link rel="stylesheet" href="https://staging-immport-blog.netlify.com/assets/css/tomorrow-night.css">
   <link href='//fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
-
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body class="bg-light">
     <div class="container">
@@ -227,7 +227,7 @@
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.10.8/umd/popper.min.js" integrity="sha256-n96swYoYKdVyLr5XatK9CzcdyrpAI0xcSlIeWOZeTAI=" crossorigin="anonymous"></script>
-    
+
 <script src="https://staging-immport-blog.netlify.com/assets/js/bootstrap.min.js"></script>
 <script src="https://staging-immport-blog.netlify.com/assets/js/highlight.pack.js"></script>
 
@@ -236,8 +236,17 @@
 
 
 <script src="https://staging-immport-blog.netlify.com/assets/js/script.js"></script>
-
-
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 
   </body>
