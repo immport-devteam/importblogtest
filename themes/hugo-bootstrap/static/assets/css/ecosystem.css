@@ -280,3 +280,37 @@ a.noStyle:focus {
   padding-right: 80px;
   padding-top: 20px;
 }
+
+.nature-text {
+	margin-top:10px; 
+    padding: 5px 5px !important; 
+}
+
+.nature-text > a {
+    color: #ffffff !important;
+	background-image: linear-gradient(to right, #164880, #164880); 
+    display: inline-block;
+    padding: 5px;
+    margin-top: -6px;
+}
+
+
+.plos-one {
+	margin-top:10px; 
+    padding: 5px 5px !important;
+}
+
+.plos-one > a {
+    color: #333 !important;
+	background: #efefef;
+    display: inline-block;
+    padding: 5px;
+    margin-top: -6px;
+}
+
+.core-trust-anchor {
+    text-decoration: none;
+    display: block;
+    margin-top: 4px;
+    padding-left: 6px;
+}

@@ -1,14 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ImmPort</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on ImmPort</description>
+    <title>Categories on ImmPort Blog</title>
+    <link>https://staging-immport-blog.netlify.com/categories/</link>
+    <description>Recent content in Categories on ImmPort Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://staging-immport-blog.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cat1</title>
+      <link>https://staging-immport-blog.netlify.com/categories/cat1/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/cat1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cat2</title>
+      <link>https://staging-immport-blog.netlify.com/categories/cat2/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/cat2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://staging-immport-blog.netlify.com/categories/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://staging-immport-blog.netlify.com/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://staging-immport-blog.netlify.com/categories/lorem-ipsum/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration</title>
+      <link>https://staging-immport-blog.netlify.com/categories/migration/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sadpanda</title>
+      <link>https://staging-immport-blog.netlify.com/categories/sadpanda/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://staging-immport-blog.netlify.com/categories/sadpanda/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

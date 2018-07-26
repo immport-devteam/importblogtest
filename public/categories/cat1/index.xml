@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://staging-immport-blog.netlify.com/categories/cat1/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://staging-immport-blog.netlify.com/categories/cat1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Test blog post</title>
@@ -15,10 +17,7 @@
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://staging-immport-blog.netlify.com/posts/2017-09-13-test-blog-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;This is a test post from Netlify CMS&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://staging-immport-blog.netlify.com/img/posts/DSC_0071.jpg&#34; alt=&#34;flower&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>This is a test post from Netlify CMS</description>
     </item>
     
   </channel>
