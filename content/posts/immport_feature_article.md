@@ -1,16 +1,13 @@
-+++
-title = "ImmPort Published"
-description = ""
-type = "post"
-tags = [
-    "ImmPort"
-]
-date = "2018-07-26"
-categories = [
-    "ImmPort"
-]
-banner = "/img/posts/Immport_feature_article_365.png"
-+++
+---
+title: Immport Published
+type: post
+date: '2018-07-26'
+banner: /img/posts/Immport_feature_article_365.png
+tags:
+  - ImmPort
+categories:
+  - ImmPort
+---
 
 <font size="4"><b>ImmPort published in Nature - Scientific Data!</b></font>
 <br></br>
