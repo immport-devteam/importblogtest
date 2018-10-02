@@ -1,20 +1,18 @@
 +++
-title = "Get funded to use ImmPort Data"
+title = "An ImmPortant Step for Big Data in Immunology"
 type = "post"
-tags = ["immport data"]
-categories = ["immport data"]
-date = "2018-07-25"
-banner = "/img/posts/immport_small.jpg"
+tags = ["Big Data","Immunology"]
+categories = ["Big Data"]
+date = "2018-07-26"
+banner = "/img/posts/focis_2018.jpg"
 +++
 
-Did you know NIAID funds researchers to develop new or improved ways to use ImmPort shared data?  The Cooperative Agreement  [PAR-16-253](https://grants.nih.gov/grants/guide/pa-files/PAR-16-253.html), posted in May 2016, does just that.  For those of you pondering the possibilities, a brief summary of the first and second round awardees follows.
+The ImmPort team successfully hosted a workshop at the FOCIS conference this past June in San Francisco. The focus of the workshop was “Big Data in Immunology,” and included both an invited speaker session and a hands-on workshop. This was quite a successful workshop for ImmPort, with 51 people attending, the largest number we have hosted to date!
+<img src="/img/posts/focis.png" style="width:500px;height:200px;" align="left" > 
+<br></br> The first part of the workshop included a series of invited speakers, all of whom came from different organizations and universities, offering insights on many different topics. First up was Purvesh Khatri (Stanford University),  who talked about how “Heterogeneity” in “Dirty data” could be used for accelerating translational medicine, despite how ‘dirty’ the data may seem. Brian Kidd of the Icahn School of Medicine gave a talk on “Identifying disease signatures and new therapeutic targets through open-access to immunological data”. Sanchita Bhattacharya (UCSF) gave a presentation on “The 10,000 Immunomes Project: A resource for human immunology,” and, last but not least, John Tsang (NIH) gave a presentation on Systems Immunology. All of these guest speakers touched on interesting aspects, challenges, and next steps with integrating big data with immunology research.<br></br>
+<img src="/img/posts/focis_team.png" style="width:400px;height:200px;" align="right" > Additionally, the workshop attendees were treated to a hands-on training with ImmPort data, led by Zicheng Hu (ImmPort-UCSF), Henry Schaefer (ImmPort-ESAC), Cristel Thomas (ImmPort-NG), and Sanchita Bhattacharya (ImmPort- UCSF). The workshop included an “Introduction to ImmPort Galaxy” and several case studies to work with. The hands-on training was a great way to get the workshop attendees to put on their data-science hats and get some real experience understanding how ImmPort analysis is done!
 
-<u><b>2017</b></u> <br> 
-[Dr. Steve Kleinstein’s](https://medicine.yale.edu/lab/kleinstein/) team at Yale University is developing [LinkedImm](https://projectreporter.nih.gov/project_info_description.cfm?aid=9518536&icde=40454673), a system designed to integrate ImmPort vaccine studies, linking those studies to other public resources such as pathway databases, gene ontology and publications, to support hypothesis-driven queries.  This project doesn’t stop with development of LinkedImm – the team will be focusing their discovery efforts on identifying signatures of human influenza vaccine responses.
+<br>Overall, the workshop was very successful in introducing all who attended to not only the analysis ImmPort does, but also allowed them to see the importance of what is done with ImmPort work. A  morning learning from the best and brightest people involved in cutting edge research in both big data science and immunology is definitely a morning well spent. 
 
-[Dr. Shuzhao Li](http://www.systemsbiology.emory.edu/people/investigators/li-shuzhao.html)  and his team from Emory University are developing the Multiscal, Multifactorial Immune Networks ([MMIN](https://projectreporter.nih.gov/project_info_description.cfm?aid=9511740&icde=40451499)) webservice as a means to integrate ImmPort study data across data types.  MMIN will be applied to the investigation of heme biosynthesis in immune responses.
+<br>The ImmPort team would like to thank NIAID, NIH, and HHS, for sponsoring the workshop!  
 
-<u><b>2018</b></u>  <br>
-[Dr. Tim Mosmann‘s](https://www.urmc.rochester.edu/labs/mosmann.aspx)  team at the University of Rochester proposed <u>Integrating SWIFT Tools to Enhance Flow Data Analysis, Exploration and Visualization in ImmPort</u>  This proposal plans to make a suite of flow cytometry analysis tools, including the SWIFT clustering algorithm, easier to use by the scientific community.  The suite will include preprocessing, clustering and analysis tools as well as SWIFT cluster templates that facilitate comparisons between flow cytometry experiments. There are many more features planned for this suite of tools, details can be found in [NIH Reporter](https://projectreporter.nih.gov/project_info_description.cfm?aid=9575761&icde=40455663).
-
-[Dr. Max Qian](https://www.jcvi.org/about/mqian) from JCVI will be focusing his efforts on cytometry data from ImmPort vaccine studies.  Innovative, unsupervised population identification combined with identification of cell-based biomarkers is just the beginning.  The plan is to return the analysis results to ImmPort to be shared with software tools as well as semantic assertions of the biomarkers. More details can be found in  [NIH Reporter](https://projectreporter.nih.gov/project_info_description.cfm?aid=9577591&icde=40456404). 
