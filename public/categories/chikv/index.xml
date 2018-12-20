@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chikv on ImmPort Blog</title>
+    <link>http://blog.immport.org/categories/chikv/</link>
+    <description>Recent content in Chikv on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/categories/chikv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHIKV Immune Profiling</title>
+      <link>http://blog.immport.org/posts/chikv/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/chikv/</guid>
+      <description>A data-drive model of pediatric immune reaction to chikungunya virus infection.
+A recently published study used multiple profiling techniques in a comprehensive assessment of natural pediatric infection with CHIKV. Researchers compared the acute and convalescent phases of 42 pediatric cases of CHIKV from a hospital-based study in Nicaragua.
+The analysis combined RNA-seq, CyTOF, and multiplex bead array ELISA data with semi-supervised classification and clustering methods in a systems immunology approach to identify changes in cell subpopulation frequencies, gene expression, and serum cytokine/chemokine concentrations during acute CHIKV infection.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,74 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>posts on ImmPort Blog</title>
-    <link>https://staging-immport-blog.netlify.com/posts/</link>
+    <link>http://blog.immport.org/posts/</link>
     <description>Recent content in posts on ImmPort Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://staging-immport-blog.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.immport.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Sad Panda</title>
-      <link>https://staging-immport-blog.netlify.com/posts/2018-01-09-sad-panda/</link>
-      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <title>HIPC 2018 Sub-committee meeting blog</title>
+      <link>http://blog.immport.org/posts/hipc/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/posts/2018-01-09-sad-panda/</guid>
-      <description>sad panda is sad</description>
+      <guid>http://blog.immport.org/posts/hipc/</guid>
+      <description>December 2018 HIPC Subcommittee Meeting
+The Human Immune Profiling Consortium HIPC 2018 Subcommittee annual meeting provided an opportunity for the Assay, Bioinformatics and Clinical subcommittees to report on their progress, discuss goals, and refine implementation details. ImmPort works with the HIPC committees to implement their recommendations and guidelines for data acquisition descriptions.
+The recent addition of immune exposures descriptive attributes for subjects was a collaboration with the bioinformatics and clinical groups to use ontological terms to describe the nature of immune exposures in terms of vaccination, disease, vaccine type and subject disease status.</description>
     </item>
     
     <item>
-      <title>Test blog post</title>
-      <link>https://staging-immport-blog.netlify.com/posts/2017-09-13-test-blog-post/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Get funded to use ImmPort Data</title>
+      <link>http://blog.immport.org/posts/useimmport/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/posts/2017-09-13-test-blog-post/</guid>
-      <description>This is a test post from Netlify CMS</description>
+      <guid>http://blog.immport.org/posts/useimmport/</guid>
+      <description>Did you know NIAID funds researchers to develop new or improved ways to use ImmPort shared data? The Cooperative Agreement PAR-16-253, posted in May 2016, does just that. For those of you pondering the possibilities, a brief summary of the first and second round awardees follows.
+2017 Dr. Steve Kleinstein’s team at Yale University is developing LinkedImm, a system designed to integrate ImmPort vaccine studies, linking those studies to other public resources such as pathway databases, gene ontology and publications, to support hypothesis-driven queries.</description>
     </item>
     
     <item>
-      <title>Example Post 3</title>
-      <link>https://staging-immport-blog.netlify.com/posts/post_example3/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <title>ImmPort Published</title>
+      <link>http://blog.immport.org/posts/immport_feature_article/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/posts/post_example3/</guid>
-      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mi lectus, posuere eget orci sit amet, venenatis tincidunt nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce nec magna ornare, commodo nunc nec, eleifend ante. Suspendisse sollicitudin nisl at lacus ullamcorper congue. Sed placerat ipsum vitae risus dictum condimentum. Nulla at metus nulla. Mauris mauris lacus, viverra vitae mi eget, eleifend faucibus lacus.</description>
+      <guid>http://blog.immport.org/posts/immport_feature_article/</guid>
+      <description>ImmPort published in Nature - Scientific Data!  Welcome to the ImmPort blog! This is our inaugural blog post and we are going to use this space to highlight our recent publication in Nature - Scientific Data. Whether you are one of our many dedicated and skilled data providers, experienced ImmPort shared data user or an ImmPort novice; we recommend you read the publication.  What sorts of information will you find in “ImmPort, toward repurposing of open access immunological assay data for translational and clinical research”?</description>
     </item>
     
     <item>
-      <title>Example Post 4</title>
-      <link>https://staging-immport-blog.netlify.com/posts/post_example4/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <title>An ImmPortant Step for Big Data in Immunology</title>
+      <link>http://blog.immport.org/posts/focis/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/posts/post_example4/</guid>
-      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam placerat nulla a bibendum tempor. Aenean tempor sed neque sed efficitur. Etiam ut lorem ante. Phasellus efficitur sollicitudin lacus ut euismod. Ut ut lacus turpis. Integer vel libero ipsum. Sed dignissim nisl sit amet enim feugiat, sed hendrerit enim vulputate.
-Aliquam elementum odio a diam tincidunt, id tempus tellus posuere. Mauris vitae massa sollicitudin, placerat sem id, volutpat ligula.</description>
+      <guid>http://blog.immport.org/posts/focis/</guid>
+      <description>The ImmPort team successfully hosted a workshop at the FOCIS conference this past June in San Francisco. The focus of the workshop was “Big Data in Immunology,” and included both an invited speaker session and a hands-on workshop. This was quite a successful workshop for ImmPort, with 51 people attending, the largest number we have hosted to date!  The first part of the workshop included a series of invited speakers, all of whom came from different organizations and universities, offering insights on many different topics.</description>
     </item>
     
     <item>
-      <title>Example Post 1</title>
-      <link>https://staging-immport-blog.netlify.com/posts/post_example1/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Accelerating Medicines Partnership (AMP) Data Shared in Immport</title>
+      <link>http://blog.immport.org/posts/amp/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/posts/post_example1/</guid>
-      <description>Getting Started with Hugo Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:</description>
+      <guid>http://blog.immport.org/posts/amp/</guid>
+      <description>The Accelerating Medicines Partnership (AMP) program, a public-private effort aimed at improving the identification of drug targets and speed the development of new drugs. Participants include the National Institutes of Health (NIH), Foundation for NIH, biopharmaceutical firms as well as non-profit organizations
+The NIH announced on February 21, 2018 in the NIH News Release the release of AMP data from ImmPort. Data from the Lupus and Rheumatoid Arthritis (AMP/SLE) pilot projects is now available in ImmPort as SDY997, SDY998 &amp;amp; SDY999.</description>
     </item>
     
     <item>
-      <title>Example Post 2</title>
-      <link>https://staging-immport-blog.netlify.com/posts/post_example2/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>CHIKV Immune Profiling</title>
+      <link>http://blog.immport.org/posts/chikv/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/posts/post_example2/</guid>
-      <description>Migrate to Hugo from Jekyll Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://blog.immport.org/posts/chikv/</guid>
+      <description>A data-drive model of pediatric immune reaction to chikungunya virus infection.
+A recently published study used multiple profiling techniques in a comprehensive assessment of natural pediatric infection with CHIKV. Researchers compared the acute and convalescent phases of 42 pediatric cases of CHIKV from a hospital-based study in Nicaragua.
+The analysis combined RNA-seq, CyTOF, and multiplex bead array ELISA data with semi-supervised classification and clustering methods in a systems immunology approach to identify changes in cell subpopulation frequencies, gene expression, and serum cytokine/chemokine concentrations during acute CHIKV infection.</description>
+    </item>
+    
+    <item>
+      <title>MetaCyto</title>
+      <link>http://blog.immport.org/posts/metacyto/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/metacyto/</guid>
+      <description>MetaCyto: a tool for meta-analysis of flow cytometry and mass cytometry data
+Meta-analysis of existing data across different studies offers multiple benefits, including increased statistical power and more robust conclusions. These benefits have been shown by many studies in areas such as genomics, cancer biology, and clinical research, and have led to important new biomedical findings.
+With the recent advances in high-throughput cytometry technologies, the immune system can be characterized at the single-cell level with up to 45 parameters, minimizing the technical limitations and allowing capture of more valuable information from immunology studies.</description>
     </item>
     
   </channel>

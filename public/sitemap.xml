@@ -3,168 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/2018-01-09-sad-panda/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/posts/hipc/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/2017-09-13-test-blog-post/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/posts/useimmport/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/post_example3/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/posts/immport_feature_article/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/post_example4/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/posts/focis/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/</loc>
+    <loc>http://blog.immport.org/posts/amp/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.immport.org/posts/chikv/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.immport.org/posts/metacyto/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.immport.org/posts/</loc>
     <lastmod>2017-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/page/about-me/</loc>
+    <loc>http://blog.immport.org/page/about-me/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/post_example1/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staging-immport-blog.netlify.com/posts/post_example2/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/cat1/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/amp/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/cat2/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/amp-data/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/big-data/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/big-data/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/chikv/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/chikv/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/hipc/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/hugo/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/hipc-2018/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/ipsum/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/immport/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/jekyll/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/immport/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/lorem/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/immport-data/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/lorem-ipsum/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/categories/immport-data/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/migration/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/immunology/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/page/</loc>
+    <loc>http://blog.immport.org/tags/metacyto/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.immport.org/categories/metacyto/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.immport.org/page/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging-immport-blog.netlify.com/categories/sadpanda/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/sadz/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/tag1/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/tag2/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://staging-immport-blog.netlify.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.immport.org/tags/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

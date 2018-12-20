@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hipc on ImmPort Blog</title>
+    <link>http://blog.immport.org/tags/hipc/</link>
+    <description>Recent content in Hipc on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/tags/hipc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HIPC 2018 Sub-committee meeting blog</title>
+      <link>http://blog.immport.org/posts/hipc/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/hipc/</guid>
+      <description>December 2018 HIPC Subcommittee Meeting
+The Human Immune Profiling Consortium HIPC 2018 Subcommittee annual meeting provided an opportunity for the Assay, Bioinformatics and Clinical subcommittees to report on their progress, discuss goals, and refine implementation details. ImmPort works with the HIPC committees to implement their recommendations and guidelines for data acquisition descriptions.
+The recent addition of immune exposures descriptive attributes for subjects was a collaboration with the bioinformatics and clinical groups to use ontological terms to describe the nature of immune exposures in terms of vaccination, disease, vaccine type and subject disease status.</description>
+    </item>
+    
+  </channel>
+</rss>

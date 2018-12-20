@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amp Data on ImmPort Blog</title>
+    <link>http://blog.immport.org/categories/amp-data/</link>
+    <description>Recent content in Amp Data on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/categories/amp-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accelerating Medicines Partnership (AMP) Data Shared in Immport</title>
+      <link>http://blog.immport.org/posts/amp/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/amp/</guid>
+      <description>The Accelerating Medicines Partnership (AMP) program, a public-private effort aimed at improving the identification of drug targets and speed the development of new drugs. Participants include the National Institutes of Health (NIH), Foundation for NIH, biopharmaceutical firms as well as non-profit organizations
+The NIH announced on February 21, 2018 in the NIH News Release the release of AMP data from ImmPort. Data from the Lupus and Rheumatoid Arthritis (AMP/SLE) pilot projects is now available in ImmPort as SDY997, SDY998 &amp;amp; SDY999.</description>
+    </item>
+    
+  </channel>
+</rss>

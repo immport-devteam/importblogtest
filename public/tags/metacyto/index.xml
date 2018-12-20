@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metacyto on ImmPort Blog</title>
+    <link>http://blog.immport.org/tags/metacyto/</link>
+    <description>Recent content in Metacyto on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/tags/metacyto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MetaCyto</title>
+      <link>http://blog.immport.org/posts/metacyto/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/metacyto/</guid>
+      <description>MetaCyto: a tool for meta-analysis of flow cytometry and mass cytometry data
+Meta-analysis of existing data across different studies offers multiple benefits, including increased statistical power and more robust conclusions. These benefits have been shown by many studies in areas such as genomics, cancer biology, and clinical research, and have led to important new biomedical findings.
+With the recent advances in high-throughput cytometry technologies, the immune system can be characterized at the single-cell level with up to 45 parameters, minimizing the technical limitations and allowing capture of more valuable information from immunology studies.</description>
+    </item>
+    
+  </channel>
+</rss>

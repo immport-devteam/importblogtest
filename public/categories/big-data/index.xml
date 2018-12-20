@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data on ImmPort Blog</title>
+    <link>http://blog.immport.org/categories/big-data/</link>
+    <description>Recent content in Big Data on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An ImmPortant Step for Big Data in Immunology</title>
+      <link>http://blog.immport.org/posts/focis/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/focis/</guid>
+      <description>The ImmPort team successfully hosted a workshop at the FOCIS conference this past June in San Francisco. The focus of the workshop was “Big Data in Immunology,” and included both an invited speaker session and a hands-on workshop. This was quite a successful workshop for ImmPort, with 51 people attending, the largest number we have hosted to date!  The first part of the workshop included a series of invited speakers, all of whom came from different organizations and universities, offering insights on many different topics.</description>
+    </item>
+    
+  </channel>
+</rss>

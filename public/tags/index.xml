@@ -2,102 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ImmPort Blog</title>
-    <link>https://staging-immport-blog.netlify.com/tags/</link>
+    <link>http://blog.immport.org/tags/</link>
     <description>Recent content in Tags on ImmPort Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://staging-immport-blog.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.immport.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://staging-immport-blog.netlify.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Amp</title>
+      <link>http://blog.immport.org/tags/amp/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/development/</guid>
+      <guid>http://blog.immport.org/tags/amp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://staging-immport-blog.netlify.com/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Big Data</title>
+      <link>http://blog.immport.org/tags/big-data/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/go/</guid>
+      <guid>http://blog.immport.org/tags/big-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://staging-immport-blog.netlify.com/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Chikv</title>
+      <link>http://blog.immport.org/tags/chikv/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/golang/</guid>
+      <guid>http://blog.immport.org/tags/chikv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://staging-immport-blog.netlify.com/tags/hugo/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Hipc</title>
+      <link>http://blog.immport.org/tags/hipc/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/hugo/</guid>
+      <guid>http://blog.immport.org/tags/hipc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>https://staging-immport-blog.netlify.com/tags/ipsum/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Immport</title>
+      <link>http://blog.immport.org/tags/immport/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/ipsum/</guid>
+      <guid>http://blog.immport.org/tags/immport/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>https://staging-immport-blog.netlify.com/tags/jekyll/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Immport Data</title>
+      <link>http://blog.immport.org/tags/immport-data/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/jekyll/</guid>
+      <guid>http://blog.immport.org/tags/immport-data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lorem</title>
-      <link>https://staging-immport-blog.netlify.com/tags/lorem/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Immunology</title>
+      <link>http://blog.immport.org/tags/immunology/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/lorem/</guid>
+      <guid>http://blog.immport.org/tags/immunology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sadz</title>
-      <link>https://staging-immport-blog.netlify.com/tags/sadz/</link>
-      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Metacyto</title>
+      <link>http://blog.immport.org/tags/metacyto/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://staging-immport-blog.netlify.com/tags/sadz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag1</title>
-      <link>https://staging-immport-blog.netlify.com/tags/tag1/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://staging-immport-blog.netlify.com/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag2</title>
-      <link>https://staging-immport-blog.netlify.com/tags/tag2/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://staging-immport-blog.netlify.com/tags/tag2/</guid>
+      <guid>http://blog.immport.org/tags/metacyto/</guid>
       <description></description>
     </item>
     

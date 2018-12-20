@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immport on ImmPort Blog</title>
+    <link>http://blog.immport.org/tags/immport/</link>
+    <description>Recent content in Immport on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/tags/immport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ImmPort Published</title>
+      <link>http://blog.immport.org/posts/immport_feature_article/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/immport_feature_article/</guid>
+      <description>ImmPort published in Nature - Scientific Data!  Welcome to the ImmPort blog! This is our inaugural blog post and we are going to use this space to highlight our recent publication in Nature - Scientific Data. Whether you are one of our many dedicated and skilled data providers, experienced ImmPort shared data user or an ImmPort novice; we recommend you read the publication.  What sorts of information will you find in “ImmPort, toward repurposing of open access immunological assay data for translational and clinical research”?</description>
+    </item>
+    
+  </channel>
+</rss>

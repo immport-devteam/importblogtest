@@ -9,7 +9,7 @@ theme = "hugo-bootstrap"
   Description = "ImmPort Blog"
   Author = "ImmPort Dev Team"
   email = "BISC_Helpdesk@niaid.nih.gov" #Remove this line if you would prefer not to use an email button in the footer.
-  postSummariesFrontPage = 6 #Number of post summaries to show on front page, comment out to allow default(4)
+  postSummariesFrontPage = 7 #Number of post summaries to show on front page, comment out to allow default(4)
 
 [params.widgets]
   recent_articles = true

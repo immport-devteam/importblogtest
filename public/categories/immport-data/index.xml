@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immport Data on ImmPort Blog</title>
+    <link>http://blog.immport.org/categories/immport-data/</link>
+    <description>Recent content in Immport Data on ImmPort Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.immport.org/categories/immport-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get funded to use ImmPort Data</title>
+      <link>http://blog.immport.org/posts/useimmport/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.immport.org/posts/useimmport/</guid>
+      <description>Did you know NIAID funds researchers to develop new or improved ways to use ImmPort shared data? The Cooperative Agreement PAR-16-253, posted in May 2016, does just that. For those of you pondering the possibilities, a brief summary of the first and second round awardees follows.
+2017 Dr. Steve Kleinstein’s team at Yale University is developing LinkedImm, a system designed to integrate ImmPort vaccine studies, linking those studies to other public resources such as pathway databases, gene ontology and publications, to support hypothesis-driven queries.</description>
+    </item>
+    
+  </channel>
+</rss>
