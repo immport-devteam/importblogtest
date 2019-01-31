@@ -9,6 +9,34 @@
     border-radius: 25%;
 }
 
+.navbar .main-site-logo {
+    width: 24px;
+    border-radius: 25%;
+}
+
+.navbar-brand {
+    float: left;
+    height: 32px;
+    padding: 6.5px 30px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ffffff !important;
+}
+
+.navbar-right {
+	margin-right: 4px;
+}
+
+.navbar-nav > li > a {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.navbar-nav > li.menu-immport-org > a {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
 .navbar-inverse .navbar-nav > li > a {
     color: #ddd;
 }
@@ -54,14 +82,12 @@
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #fff !important;
+    color: #d9d9d9;
     font-size: 14px;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
     color: #fff ;
-    background-color: #000000;
-    border-radius: 10px;
 }
 
 a.dropdown-toggle {
@@ -181,8 +207,6 @@ h1 {
 .resourcesApplicationHeader {
 	margin-top: 32px;
     min-height: 30px;
-    padding-top: 1px;
-    padding-bottom: 2px;
     z-index: 1000;
     background-color: #6A5ACD;
     opacity: 1;
