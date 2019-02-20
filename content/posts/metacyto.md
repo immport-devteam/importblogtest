@@ -1,12 +1,13 @@
-+++
-title = "MetaCyto"
-type = "post"
-tags = ["MetaCyto"]
-categories = ["MetaCyto"]
-date = "2018-07-18"
-banner = "/img/posts/MetaCyto.jpg"
-+++
-
+---
+title: MetaCyto
+type: post
+date: '2018-07-18'
+banner: /img/posts/MetaCyto.jpg
+tags:
+  - MetaCyto
+categories:
+  - MetaCyto
+---
 <B>MetaCyto: a tool for meta-analysis of flow cytometry and mass cytometry data</B>
 
 Meta-analysis of existing data across different studies offers multiple benefits, including increased statistical power and more robust conclusions. These benefits have been shown by many studies in areas such as genomics, cancer biology, and clinical research, and have led to important new biomedical findings. 
@@ -19,4 +20,6 @@ A research team headed by Atul Butte at the University of California, San Franci
 
 “This is the first time a large-scale meta-analysis of cytometry data has been done. It shows that heterogeneous cytometry data from independent studies can be combined to provide new insights," says Zicheng Hu, the first author of the study.
 
-Using MetaCyto, the team performed a joint analysis of 2,926 peripheral blood mononuclear cell (PBMC) samples from ten human immunology cytometry datasets. The meta-analysis approach allows the team to discover new differences in immune cells between demographic groups. The tool is available as an [R package](https://bioconductor.org/packages/release/bioc/html/MetaCyto.html) and as a [galaxy tool](https://immportgalaxy.org/). 
+Using MetaCyto, the team performed a joint analysis of 2,926 peripheral blood mononuclear cell (PBMC) samples from ten human immunology cytometry datasets. The meta-analysis approach allows the team to discover new differences in immune cells between demographic groups. The tool is available in \_ImmPort Galaxy \_ (https://immportgalaxy.org/) and as an R package (https://bioconductor.org/packages/release/bioc/html/MetaCyto.html) and as a galaxy tool (https://immportgalaxy.org/). 
+
+Funding for MetaCyto provided by the National Institutes of Health (NIH), National Institutes of Allergy and Infectious Disease, under the ImmPort contract HHSN316201200036W
