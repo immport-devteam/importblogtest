@@ -4,7 +4,7 @@ title: >-
   immunology related data with ontologies'
 type: post
 date: '2019-03-13'
-banner: /img/posts/aai2019.png
+banner: /img/posts/aai2019.4.png
 tags:
   - AAI
   - IEDB
