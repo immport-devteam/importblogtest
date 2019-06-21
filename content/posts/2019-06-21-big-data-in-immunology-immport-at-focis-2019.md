@@ -9,9 +9,7 @@ tags:
   - immunology
   - big data
 categories:
-  - category_a
-  - category_b
-  - category_c
+  - ''
 ---
 ImmPort team members, [@ImmPortDB](https://twitter.com/immportdb?lang=en), and collaborators were thrilled to host a series of talks and a hands-on workshop during the 2019 [Federation of Clinical Immunology Societies ](http://www.focisnet.org/meetings/focis-2019/)(FOCIS) Annual Meeting. The action packed session was chaired by ImmPort Scientific Program Director, [Sanchita Bhattacharya](http://buttelab.ucsf.edu/people/#sanchita-bio), [@SanchitaB](https://twitter.com/Sanchitab), PhD and Bioinformatics Project Lead of the Bakar Institute of Computational Health Sciences, UCSF, and included several enlightening presentations from ImmPort collaborators and team members:
 
