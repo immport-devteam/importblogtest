@@ -2,7 +2,7 @@
 title: 'FOCIS Highlight: Using Big Data to Study Preterm Birth'
 type: post
 date: '2019-07-12'
-banner: /img/posts/sirota-photo.png
+banner: /img/posts/sirota-photo_resize.png
 tags:
   - preterm birth
   - big data
