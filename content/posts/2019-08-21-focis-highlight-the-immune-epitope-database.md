@@ -2,7 +2,7 @@
 title: 'FOCIS Highlight: The Immune Epitope Database'
 type: post
 date: '2019-08-21'
-banner: /img/posts/peters_photo_small_50.png
+banner: /img/posts/peters_photo_small_65.png
 tags:
   - immunology
   - epitopes
