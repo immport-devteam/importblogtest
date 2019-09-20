@@ -2,7 +2,7 @@
 title: 'DR32 Highlighted Study: The Gut Microbiome and Vaccine Response'
 type: post
 date: '2019-09-20'
-banner: /img/posts/dr-32-graphic.png
+banner: /img/posts/dr_32_graphic_60.png
 tags:
   - gut microbiome
   - vaccine response
