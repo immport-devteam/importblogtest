@@ -1,4 +1,4 @@
-baseURL = "http://blog.immport.org/"
+baseURL = "https://blog.immport.org/"
 languageCode = "en-us"
 title = "ImmPort Blog"
 theme = "hugo-bootstrap"
