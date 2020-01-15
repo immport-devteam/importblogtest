@@ -2,7 +2,7 @@
 title: ImmPort at BigDat 2020
 type: post
 date: '2020-01-15'
-banner: /img/posts/bigdat_logo_resize_65.png
+banner: /img/posts/bigdat_logo_resize_50.png
 tags:
   - BigDat
   - Bhattacharya
