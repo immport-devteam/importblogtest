@@ -2,7 +2,7 @@
 title: 'Data Release 33 Highlights: 22 New Studies & 21 Updated Studies'
 type: post
 date: '2020-02-04'
-banner: /img/posts/dr_33_photo_50.png
+banner: /img/posts/dr_33_photo_original_70.png
 tags:
   - big data
   - immunology
