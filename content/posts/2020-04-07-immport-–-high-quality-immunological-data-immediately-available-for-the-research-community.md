@@ -4,7 +4,7 @@ title: >-
   Research Community
 type: post
 date: '2020-04-07'
-banner: /img/posts/updated-shared-data-photo.png
+banner: /img/posts/updated_shared_data_photo_30.png
 tags:
   - COVID-19
   - SARS-CoV-2
