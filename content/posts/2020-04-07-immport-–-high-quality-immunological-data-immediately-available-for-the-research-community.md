@@ -26,17 +26,8 @@ Our hearts and minds are with all impacted by COVID-19, and we’d like to ensur
 Examples of data types include:
 
 * Immune profiles of over 10,000 healthy individuals (<https://10kimmunomes.ucsf.edu/app/10kimmunomes>; PMID: [30304689](https://www.ncbi.nlm.nih.gov/pubmed/30304689))
-
-
-
 * Immunological data from studies related to [malaria](https://www.immport.org/shared/search?filters=study_2_condition_or_disease.condition_preferred:malaria), [influenza](https://www.immport.org/shared/search?filters=study_2_condition_or_disease.condition_preferred:influenza), and other infectious disease
-
-
-
 * General [vaccine response](https://www.immport.org/shared/search?filters=study_categorization.research_focus:Vaccine%20Response) data
-
-
-
 * Large data-sets from technologies such ELISA, RNA sequencing, flow cytometry, CyToF
 
 ImmPort is a recommended data repository by PLOS One, Nature’s Scientific Data, and holds the Core Trust Seal of Approval for Core Trustworthy Data Repositories.
