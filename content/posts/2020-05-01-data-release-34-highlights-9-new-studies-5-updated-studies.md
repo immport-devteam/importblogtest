@@ -2,7 +2,7 @@
 title: 'Data Release 34 Highlights: 9 New Studies & 5 Updated Studies'
 type: post
 date: '2020-05-01'
-banner: /img/posts/immport-social-media-graphics_dr-34.png
+banner: /img/posts/immport-social-media-graphics_dr-34_40-smaller.png
 tags:
   - COVID-19
   - immunology
