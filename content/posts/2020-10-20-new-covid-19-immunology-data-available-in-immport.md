@@ -2,7 +2,7 @@
 title: New COVID-19 Immunology Data Available in ImmPort
 type: post
 date: '2020-10-20'
-banner: /img/posts/dr_covid_image_orig_1_80.png
+banner: /img/posts/dr_covid_image_orig_v2_80.png
 tags:
   - COVID-19
   - SARS-CoV-2
