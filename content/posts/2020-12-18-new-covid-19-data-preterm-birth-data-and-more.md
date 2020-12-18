@@ -2,7 +2,7 @@
 title: 'New COVID-19 Data, Preterm Birth Data, and More'
 type: post
 date: '2020-12-18'
-banner: /img/posts/dr_37_graphic_original.png
+banner: /img/posts/dr_37_graphic_40.png
 tags:
   - COVID-19
   - immunology
